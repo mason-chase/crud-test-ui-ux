@@ -1,19 +1,16 @@
 # CRUD Test UI UX Design
 
 Please read each note very carefully!
-Feel free to add/change project structure to a clean architecture to your view.
-and if you are not able to work on FrontEnd project, you can add a Swagger UI
-in a new Front project.
 
-Create a simple CRUD application with ASP NET Core that implements the below model:
+Create a simple CRUD application the below model:
 ```
 Customer {
 	Firstname
 	Lastname
-	DateOfBirth
-	PhoneNumber
+	Date Of Birth
+	Phone Number
 	Email
-	BankAccountNumber
+	Bank Account Number
 }
 ```
 ## Practices and patterns (Must):
@@ -26,7 +23,7 @@ Customer {
 
 ### Validations (Must)
 
-- During Create; validate the phone number to be a valid *mobile* number only.
+- During Create and Edit; validate the phone number to be a valid *mobile* number only.
 
 - A Valid email and a valid bank account number must be checked before submitting the form.
 
