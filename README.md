@@ -2,7 +2,9 @@
 
 Please read each note very carefully!
 
-Create a simple CRUD application the below model:
+Create a UI/UX design for a simple CRUD application in your desired tool (Figma, Adobe XD or any toher) 
+
+Application implements the below model:
 ```
 Customer {
 	Firstname
@@ -17,9 +19,9 @@ Customer {
 
 - Happy flow
 - Validation fails flows
-- [Gherkins scenario](https://www.cucumber.io/)
 - Create Web design for desktop view
 - Create Mobile responsive design 
+- [Gherkins scenario](https://www.cucumber.io/)
 
 ### Validations (Must)
 
