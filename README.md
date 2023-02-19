@@ -25,7 +25,7 @@ Customer {
 
 ### Validations (Must)
 
-- During Create and Edit; validate the phone number to be a valid *mobile* number only.
+- During Create and Edit; validate the phone number format that user can only provide a valid *mobile* number only.
 
 - A Valid email and a valid bank account number must be checked before submitting the form.
 
