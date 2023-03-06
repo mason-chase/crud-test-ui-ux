@@ -17,8 +17,8 @@ Customer {
 ```
 ## Practices and patterns (Must):
 
-- Happy flow
-- Validation fails flows
+- Happy flows (Create, List, Update, Delete)
+- Validation fails flows within create or update
 - Create Web design for desktop view
 - Create Mobile responsive design 
 - [Gherkins scenario](https://www.cucumber.io/)
@@ -34,7 +34,5 @@ Customer {
 - Email must be unique.
 
 ### Delivery (Must)
-- Please clone this repository in a new github repository in private mode and share with ID: `mason-chase` in private mode on github.com, make sure you do not erase my commits and then create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (code review).
+- Please create a Figma design and share the link with us.
 
-## Nice to do:
-- HTML/CSS output.
