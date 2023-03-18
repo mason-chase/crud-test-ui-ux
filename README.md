@@ -17,8 +17,14 @@ Customer {
 ```
 ## Practices and patterns (Must):
 
-- Happy flows (Create, List, Update, Delete)
+- Happy flows:
+	* User creates a customer from a list of zero entries and arrives to list of 1 customer
+	* User update an existing customer and values are updated
+	* User delete a customer from a list of one customer and arrives to an empty list of customers
 - Validation fails flows within create or update
+	* Duplicate error (by firstname, lastname and date-of-birth)
+	* Duplicate error (by email)
+	* Invalid Email, Mobile or Bank Account
 - Create Web design for desktop view
 - Create Mobile responsive design 
 - [Gherkins scenario](https://www.cucumber.io/)
