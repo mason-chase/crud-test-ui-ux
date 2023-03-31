@@ -41,4 +41,4 @@ Customer {
 
 ### Delivery (Must)
 - Please create a Figma design and share the link with us.
-
+- To prevent any prejudice, do not write your personal name, email or phone in the test result.
