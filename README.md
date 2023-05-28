@@ -18,13 +18,21 @@ Customer {
 ## Practices and patterns (Must):
 
 - Happy flows with prototype for following scenario:
+	
 	S1. User creates a customer from a list of zero entries and arrives to list of 1 customer
+	
 	S2. User update an existing customer and values are updated
+	
 	S3. User delete a customer from a list of one customer and arrives to an empty list of customers
+	
 - Validation fails flows within create or update
+
 	V1. Duplicate error (by firstname, lastname and date-of-birth)
+	
 	V2. Duplicate error (by email)
+	
 	V3. Invalid Email, Mobile or Bank Account
+	
 - Create Web design for desktop view
 - Create Mobile responsive design 
 - [Gherkins scenario](https://www.cucumber.io/)
