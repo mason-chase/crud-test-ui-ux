@@ -34,7 +34,9 @@ Customer {
 	V3. Invalid Email, Mobile or Bank Account
 	
 - Create Web design for desktop view
-- Create Mobile responsive design 
+- Create Mobile responsive design
+- Prototype
+- Design System
 - [Gherkins scenario](https://www.cucumber.io/)
 
 ### Validations (Must)
